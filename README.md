@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Legislative-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Legislative-Management?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Legislative-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Legislative-Management?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
@@ -57,36 +57,36 @@ Below is a comparison of top commercial legislative management platforms, sorted
 
 ## 🔓 Open-Source GitHub Projects
 
-The following open-source projects provide transparency tools, agenda scrapers, legislative tracking, and e-participation platforms. Repositories are sorted by **GitHub Star Count** (descending).
+The following open-source projects provide transparency tools, agenda scrapers, legislative tracking, and e-participation platforms. Repositories are sorted by **GitHub Stars_Count** (descending).
 
-- **[consuldemocracy/consuldemocracy](https://github.com/consuldemocracy/consuldemocracy)** [![GitHub Stars](https://img.shields.io/github/stars/consuldemocracy/consuldemocracy?style=social&color=white)](https://github.com/consuldemocracy/consuldemocracy/stargazers)  
+- **[consuldemocracy/consuldemocracy](https://github.com/consuldemocracy/consuldemocracy)** [![GitHub_Stars](https://img.shields.io/github/stars/consuldemocracy/consuldemocracy?style=social&color=white)](https://github.com/consuldemocracy/consuldemocracy/stargazers)  
   *Consul Democracy is one of the most complete open-source e-participation and civic governance platforms used by governments worldwide for citizen proposals, voting, and debate.* 🌐
 
-- **[decidim/decidim](https://github.com/decidim/decidim)** [![GitHub Stars](https://img.shields.io/github/stars/decidim/decidim?style=social&color=white)](https://github.com/decidim/decidim/stargazers)  
+- **[decidim/decidim](https://github.com/decidim/decidim)** [![GitHub_Stars](https://img.shields.io/github/stars/decidim/decidim?style=social&color=white)](https://github.com/decidim/decidim/stargazers)  
   *Participatory governance framework built on Ruby on Rails for cities and organizations to manage public consultations, legislative proposals, and strategic planning.* 🗳️
 
-- **[unitedstates/congress](https://github.com/unitedstates/congress)** [![GitHub Stars](https://img.shields.io/github/stars/unitedstates/congress?style=social&color=white)](https://github.com/unitedstates/congress/stargazers)  
+- **[unitedstates/congress](https://github.com/unitedstates/congress)** [![GitHub_Stars](https://img.shields.io/github/stars/unitedstates/congress?style=social&color=white)](https://github.com/unitedstates/congress/stargazers)  
   *Public domain data collectors and scrapers for federal legislative data, tracking Congress bills, roll call votes, amendments, and committee schedules.* 🇺🇸
 
-- **[openstates/openstates-scrapers](https://github.com/openstates/openstates-scrapers)** [![GitHub Stars](https://img.shields.io/github/stars/openstates/openstates-scrapers?style=social&color=white)](https://github.com/openstates/openstates-scrapers/stargazers)  
+- **[openstates/openstates-scrapers](https://github.com/openstates/openstates-scrapers)** [![GitHub_Stars](https://img.shields.io/github/stars/openstates/openstates-scrapers?style=social&color=white)](https://github.com/openstates/openstates-scrapers/stargazers)  
   *Scrapers and data processing scripts collecting state-level legislative data, bills, legislators, and voting records across all 50 US states.* 🗺️
 
-- **[opengovfoundation/madison](https://github.com/opengovfoundation/madison)** [![GitHub Stars](https://img.shields.io/github/stars/opengovfoundation/madison?style=social&color=white)](https://github.com/opengovfoundation/madison/stargazers)  
+- **[opengovfoundation/madison](https://github.com/opengovfoundation/madison)** [![GitHub_Stars](https://img.shields.io/github/stars/opengovfoundation/madison?style=social&color=white)](https://github.com/opengovfoundation/madison/stargazers)  
   *Open policy co-creation platform enabling lawmakers to share draft legislation publicly so citizens can comment, annotate, and suggest edits line-by-line.* ✏️
 
-- **[openelections/openelections-core](https://github.com/openelections/openelections-core)** [![GitHub Stars](https://img.shields.io/github/stars/openelections/openelections-core?style=social&color=white)](https://github.com/openelections/openelections-core/stargazers)  
+- **[openelections/openelections-core](https://github.com/openelections/openelections-core)** [![GitHub_Stars](https://img.shields.io/github/stars/openelections/openelections-core?style=social&color=white)](https://github.com/openelections/openelections-core/stargazers)  
   *Core framework for acquiring, transforming, and publishing certified election results and voting records for public auditability.* 🗳️
 
-- **[frappe/meeting](https://github.com/frappe/meeting)** [![GitHub Stars](https://img.shields.io/github/stars/frappe/meeting?style=social&color=white)](https://github.com/frappe/meeting/stargazers)  
+- **[frappe/meeting](https://github.com/frappe/meeting)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/meeting?style=social&color=white)](https://github.com/frappe/meeting/stargazers)  
   *Open-source meeting workflow app built on Frappe Framework for scheduling agendas, managing attendees, and logging structured meeting minutes.* 📅
 
-- **[datamade/chi-councilmatic](https://github.com/datamade/chi-councilmatic)** [![GitHub Stars](https://img.shields.io/github/stars/datamade/chi-councilmatic?style=social&color=white)](https://github.com/datamade/chi-councilmatic/stargazers)  
+- **[datamade/chi-councilmatic](https://github.com/datamade/chi-councilmatic)** [![GitHub_Stars](https://img.shields.io/github/stars/datamade/chi-councilmatic?style=social&color=white)](https://github.com/datamade/chi-councilmatic/stargazers)  
   *City Councilmatic instance tracking Chicago City Council agendas, aldermanic votes, committee meetings, and legislative documents.* 🏙️
 
-- **[driki/muni-meeting](https://github.com/driki/muni-meeting)** [![GitHub Stars](https://img.shields.io/github/stars/driki/muni-meeting?style=social&color=white)](https://github.com/driki/muni-meeting/stargazers)  
+- **[driki/muni-meeting](https://github.com/driki/muni-meeting)** [![GitHub_Stars](https://img.shields.io/github/stars/driki/muni-meeting?style=social&color=white)](https://github.com/driki/muni-meeting/stargazers)  
   *Dedicated open-source meeting and agenda management application designed specifically for municipal council meeting preparation and records.* 📜
 
-- **[front-seat/engage](https://github.com/front-seat/engage)** [![GitHub Stars](https://img.shields.io/github/stars/front-seat/engage?style=social&color=white)](https://github.com/front-seat/engage/stargazers)  
+- **[front-seat/engage](https://github.com/front-seat/engage)** [![GitHub_Stars](https://img.shields.io/github/stars/front-seat/engage?style=social&color=white)](https://github.com/front-seat/engage/stargazers)  
   *Civic-tech project that parses city council agendas, extracts legislative topics, and generates AI-driven public summaries for citizens.* 🤖
 
 ---
@@ -109,7 +109,7 @@ Contributions are highly encouraged! To contribute to this curated list:
 
 1. 🍴 Fork this repository.
 2. 📝 Add your suggested SaaS tool or Open-Source project to `README.md`.
-3. ⭐ Ensure open-source projects include star count badge syntax linked to stargazers.
+3. ⭐ Ensure open-source projects include Stars_Count badge syntax linked to stargazers.
 4. 🕊️ Maintain factual, neutral descriptions with valid links.
 5. 🚀 Create a Pull Request with a clear description of changes.
 
